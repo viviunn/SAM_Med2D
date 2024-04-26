@@ -1,0 +1,3840 @@
+{
+    "RF_2045_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                50,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                112,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                87,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                45,
+                69
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                53,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                76,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                61,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                130,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                114,
+                57
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                36,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                42,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                130,
+                69
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                56,
+                88
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                113,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                123,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                69
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                102,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                121,
+                65
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                66,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                71,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                38,
+                76
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                130,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                99,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                61,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                69,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                79,
+                60
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                75,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                69,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RAL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                128,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                53,
+                60
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                54,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                81
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                73,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                101,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                58,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                72,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                90,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                57,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                87,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                100,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                116,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                122,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                84,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                87,
+                61
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                60,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                97,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                112,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LAL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                124,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                96,
+                76
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                37,
+                69
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                84,
+                61
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                62,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                78,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                107,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                50,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                54,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                53,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                69,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                142,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                114,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                65,
+                74
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                123,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                51,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                124,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                116,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                137,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                42,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                61,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                38,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                82,
+                76
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                45,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                72,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                93,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                53,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                71,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                106,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                97,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                131,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                46,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                67,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                93,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                103,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                103,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                100,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                109,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                48,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                64
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                50,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                69,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                35,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                44,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                86,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                112,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                61,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                98,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                52,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                96,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                76,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                79,
+                61
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                89,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                88,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                59,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                50,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                81,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                71,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2035_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                76,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                64,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                81,
+                82
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                51,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                56,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                46,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                120,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                44,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                81,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                84,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                111,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                90,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                39,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                82,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                79,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                59,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                64,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                81,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                117,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                123,
+                61
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2033_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                51,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                112,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                98,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                55,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                58,
+                60
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                73,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                61,
+                79
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2031_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                88,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                97,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                95,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                78,
+                76
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                62,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                52,
+                64
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                87,
+                59
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                112,
+                66
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                97
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                40,
+                80
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                43,
+                86
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                44,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                98,
+                54
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                95,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                118,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                78,
+                71
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                77,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                105,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                59,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                94,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2096_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                77,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                62,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                83,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                84,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                89,
+                80
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                96,
+                64
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                97,
+                78
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                78,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_LAM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                128,
+                75
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                47,
+                76
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2049_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                113,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                67,
+                67
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2045_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                90
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2073_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                82,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2083_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                82,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                58,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_LBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                44,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2071_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                88,
+                60
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2027_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                70,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                114,
+                63
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2077_RAM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                139,
+                77
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                91,
+                64
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                75,
+                54
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_LA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                107,
+                70
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2006_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                79,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                128,
+                72
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_RMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                80
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2074_RBL_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                51,
+                73
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2060_LBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                52,
+                62
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2067_RML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                87,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2038_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                85,
+                64
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2022_RBM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                49,
+                68
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2013_LMM_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                73,
+                69
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2040_LML_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                98,
+                59
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    },
+    "RF_2001_RA_mask.png": {
+        "boxes": [
+            [
+                0,
+                30,
+                160,
+                179
+            ]
+        ],
+        "point_coords": [
+            [
+                113,
+                60
+            ]
+        ],
+        "point_labels": [
+            1
+        ]
+    }
+}
