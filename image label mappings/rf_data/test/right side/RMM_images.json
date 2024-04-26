@@ -1,0 +1,22 @@
+{
+    "patient_split/rf_data/test/masks/RF_2071_RMM_mask.png": "patient_split/rf_data/test/images/RF_2071_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2027_RMM_mask.png": "patient_split/rf_data/test/images/RF_2027_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2077_RMM_mask.png": "patient_split/rf_data/test/images/RF_2077_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2006_RMM_mask.png": "patient_split/rf_data/test/images/RF_2006_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2083_RMM_mask.png": "patient_split/rf_data/test/images/RF_2083_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2074_RMM_mask.png": "patient_split/rf_data/test/images/RF_2074_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2073_RMM_mask.png": "patient_split/rf_data/test/images/RF_2073_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2033_RMM_mask.png": "patient_split/rf_data/test/images/RF_2033_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2035_RMM_mask.png": "patient_split/rf_data/test/images/RF_2035_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2067_RMM_mask.png": "patient_split/rf_data/test/images/RF_2067_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2001_RMM_mask.png": "patient_split/rf_data/test/images/RF_2001_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2022_RMM_mask.png": "patient_split/rf_data/test/images/RF_2022_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2096_RMM_mask.png": "patient_split/rf_data/test/images/RF_2096_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2045_RMM_mask.png": "patient_split/rf_data/test/images/RF_2045_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2013_RMM_mask.png": "patient_split/rf_data/test/images/RF_2013_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2031_RMM_mask.png": "patient_split/rf_data/test/images/RF_2031_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2060_RMM_mask.png": "patient_split/rf_data/test/images/RF_2060_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2040_RMM_mask.png": "patient_split/rf_data/test/images/RF_2040_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2038_RMM_mask.png": "patient_split/rf_data/test/images/RF_2038_RMM.png",
+    "patient_split/rf_data/test/masks/RF_2049_RMM_mask.png": "patient_split/rf_data/test/images/RF_2049_RMM.png"
+}

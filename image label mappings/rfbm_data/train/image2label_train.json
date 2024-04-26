@@ -1,0 +1,4022 @@
+{
+    "patient_split/bm_data/train/images/BM_2029_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2029_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2050_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2048_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2039_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2062_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2025_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2061_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2075_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2034_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2056_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2028_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2098_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2058_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2051_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2007_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2041_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2026_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2062_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2094_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2008_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2056_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2019_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2059_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2065_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2041_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2053_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2079_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2084_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2047_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2002_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2063_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2085_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2034_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2079_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2099_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2019_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2026_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2090_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2053_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2039_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2034_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2039_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2058_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2024_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2091_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2009_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2051_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2055_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2058_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2026_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2034_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2084_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2008_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2095_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2095_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2041_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2041_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2091_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2039_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2081_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2046_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2042_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2039_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2084_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2065_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2066_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2062_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2007_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2053_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2009_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2041_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2093_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2007_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2048_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2030_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2030_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2026_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2034_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2092_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2081_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2058_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2042_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2019_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2098_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2032_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2094_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2091_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2004_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2008_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2099_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2064_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2025_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2080_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2024_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2007_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2092_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2042_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2057_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2007_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2046_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2008_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2032_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2042_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2019_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2009_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2078_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2062_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2024_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2046_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2079_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2062_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2099_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2066_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2080_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2090_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2090_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2032_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2090_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2030_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2024_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2039_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2057_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2091_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2097_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2021_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2066_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2075_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2078_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2042_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2021_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2078_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2048_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2057_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2048_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2024_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2008_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2019_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2011_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2050_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2019_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2064_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2021_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2061_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2061_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2017_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2094_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2092_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2081_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2026_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2079_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2009_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2064_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2012_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2084_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2004_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2012_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2097_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2047_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2091_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2085_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2062_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2098_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2002_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2078_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2047_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2066_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2025_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2094_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2075_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2080_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2090_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2095_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2029_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2032_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2042_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2012_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2003_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2053_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2063_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2017_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2024_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2063_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2057_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2084_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2028_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2039_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2078_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2066_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2028_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2084_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2075_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2053_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2091_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2026_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2075_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2050_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2007_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2021_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2099_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2034_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2078_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2098_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2064_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2002_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2091_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2056_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2004_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2055_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2085_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2004_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2062_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2011_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2092_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2051_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2048_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2081_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2080_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2004_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2065_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2026_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2078_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2056_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2098_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2099_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2080_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2032_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2002_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2003_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2029_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2053_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2061_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2063_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2003_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2059_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2085_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2055_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2063_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2063_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2047_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2028_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2034_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2046_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2030_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2021_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2012_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2009_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2048_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2017_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2094_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2034_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2056_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2058_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2059_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2012_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2011_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2091_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2061_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2095_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2029_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2066_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2064_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2094_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2092_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2007_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2056_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2008_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2002_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2039_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2046_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2011_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2047_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2078_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2092_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2051_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2093_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2050_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2019_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2055_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2085_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2017_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2092_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2009_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2080_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2066_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2025_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2021_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2097_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2024_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2097_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2042_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2097_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2075_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2085_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2003_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2063_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2017_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2092_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2055_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2046_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2066_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2095_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2059_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2012_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2059_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2081_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2029_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2078_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2003_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2079_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2025_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2047_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2051_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2065_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2029_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2011_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2065_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2064_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2059_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2041_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2065_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2066_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2029_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2051_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2024_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2080_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2081_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2050_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2021_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2037_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2004_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2009_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2097_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2009_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2062_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2099_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2093_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2090_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2034_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2085_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2057_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2055_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2057_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2090_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2095_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2050_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2080_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2048_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2032_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2057_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2059_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2064_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2058_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2029_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2028_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2032_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2098_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2093_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2085_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2084_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2059_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2093_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2002_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2026_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2030_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2094_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2085_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2080_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2093_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2095_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2090_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2032_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2032_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2098_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2081_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2050_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2028_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2055_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2017_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2064_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2094_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2030_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2093_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2099_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2019_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2009_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2029_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2050_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2098_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2047_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2093_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2095_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2041_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2056_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2042_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2057_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2009_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2009_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2057_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2047_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2080_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2080_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2004_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2048_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2065_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2094_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2039_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2008_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2079_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2030_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2048_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2011_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2063_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2042_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2029_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2029_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2055_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2030_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2076_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2046_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2012_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2064_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2007_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2056_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2081_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2081_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2007_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2002_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2017_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2079_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2063_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2095_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2075_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2099_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2030_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2059_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2041_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2004_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2025_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2028_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2021_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2079_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2008_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2003_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2061_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2046_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2012_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2004_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2085_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2085_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2058_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2004_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2004_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2003_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2002_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2078_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2078_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2097_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2003_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2011_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2056_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2061_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2099_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2087_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2068_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2021_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2053_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2050_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2059_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2059_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2090_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2050_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2050_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2002_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2055_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2061_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2026_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2075_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2019_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2025_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2058_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2046_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2084_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2017_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2084_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2047_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2039_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2039_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2003_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2037_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2037_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2034_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2034_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2066_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2066_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2094_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2094_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2079_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2017_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2099_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2099_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2021_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2021_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2056_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2056_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2011_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2053_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2053_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2012_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2076_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2076_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2069_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2069_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2030_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2030_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2075_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2041_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2093_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2082_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2051_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2064_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2064_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_LAM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_LAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2024_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2061_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2063_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2063_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2062_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2024_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2024_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2051_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2047_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2047_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2041_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2041_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2017_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2017_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2002_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2002_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2097_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2065_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2065_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2098_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2026_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2026_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2065_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2065_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2025_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2011_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2028_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2058_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2061_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2061_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2068_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2068_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2097_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2053_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2053_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2051_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2019_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2019_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2097_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2097_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2084_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2084_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2098_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2098_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2095_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2095_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2090_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2090_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2057_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2057_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2092_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RAM.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RAM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2016_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2042_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2042_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2091_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2007_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2007_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2058_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2058_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2032_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2032_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2008_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2081_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2081_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2048_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2048_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2075_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2075_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2016_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2016_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2028_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2087_RMM.png": [
+        "patient_split/bm_data/train/masks/BM_2087_RMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2052_RAL.png": [
+        "patient_split/bm_data/train/masks/BM_2052_RAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2011_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2011_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2091_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2091_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2008_RML.png": [
+        "patient_split/bm_data/train/masks/BM_2008_RML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2082_LAL.png": [
+        "patient_split/bm_data/train/masks/BM_2082_LAL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2086_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2086_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2051_RA.png": [
+        "patient_split/bm_data/train/masks/BM_2051_RA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2028_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2028_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2093_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2093_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2012_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2012_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2079_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2079_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2055_LA.png": [
+        "patient_split/bm_data/train/masks/BM_2055_LA_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2043_LBL.png": [
+        "patient_split/bm_data/train/masks/BM_2043_LBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2003_RBL.png": [
+        "patient_split/bm_data/train/masks/BM_2003_RBL_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2046_LBM.png": [
+        "patient_split/bm_data/train/masks/BM_2046_LBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_RBM.png": [
+        "patient_split/bm_data/train/masks/BM_2025_RBM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2092_LMM.png": [
+        "patient_split/bm_data/train/masks/BM_2092_LMM_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2025_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2025_LML_mask.png"
+    ],
+    "patient_split/bm_data/train/images/BM_2062_LML.png": [
+        "patient_split/bm_data/train/masks/BM_2062_LML_mask.png"
+    ],
+        "patient_split/rf_data/train/images/RF_2047_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2047_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2029_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2017_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2098_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2042_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2093_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2032_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2063_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2065_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2094_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2081_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2047_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2048_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2012_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2056_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2058_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2075_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2017_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2098_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2032_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2064_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2029_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2002_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2059_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2098_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2008_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2085_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2025_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2062_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2091_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2078_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2057_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2032_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2097_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2029_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2078_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2080_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2048_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2004_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2050_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2030_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2028_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2097_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2053_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2066_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2062_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2046_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2092_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2002_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2058_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2007_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2028_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2081_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2058_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2011_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2079_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2008_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2025_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2046_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2084_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2021_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2021_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2084_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2084_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2091_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2097_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2079_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2080_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2090_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2055_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2093_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2042_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2062_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2011_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2075_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2091_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2058_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2078_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2095_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2046_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2017_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2050_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2007_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2059_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2026_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2008_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2051_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2026_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2034_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2039_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2078_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2028_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2019_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2042_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2032_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2026_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2099_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2047_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2051_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2061_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2059_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2011_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2039_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2081_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2093_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2055_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2028_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2004_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2063_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2034_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2064_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2004_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2095_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2050_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2041_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2011_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2084_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2066_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2075_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2012_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2047_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2048_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2025_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2004_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2095_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2029_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2012_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2075_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2061_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2053_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2042_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2032_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2051_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2084_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2091_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2059_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2064_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2095_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2063_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2081_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2085_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2034_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2079_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2048_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2041_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2080_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2081_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2042_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2092_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2080_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2034_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2030_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2030_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2021_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2056_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2093_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2017_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2085_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2032_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2025_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2092_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2055_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2039_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2094_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2041_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2024_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2007_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2062_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2057_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2009_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2050_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2011_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2008_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2012_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2092_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2062_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2025_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2081_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2056_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2030_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2017_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2059_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2090_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2029_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2048_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2012_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2029_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2065_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2093_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2057_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2099_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2024_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2065_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2081_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2065_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2064_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2058_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2079_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2019_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2097_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2021_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2064_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2080_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2053_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2079_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2091_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2062_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2085_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2007_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2097_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2026_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2095_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2080_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2091_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2090_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2063_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2009_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2055_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2085_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2084_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2003_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2078_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2098_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2065_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2046_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2050_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2061_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2094_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2085_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2056_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2097_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2041_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2066_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2066_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2090_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2055_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2032_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2051_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2065_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2061_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2024_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2034_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2079_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2057_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2032_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2056_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2019_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2059_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2026_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2016_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2050_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2024_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2004_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2017_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2030_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2058_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2024_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2024_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2059_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2063_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2057_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2046_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2039_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2003_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2092_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2097_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2021_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2066_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2012_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2099_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2085_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2034_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2051_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2059_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2017_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2061_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2002_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2007_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2053_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2079_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2011_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2090_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2055_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2009_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2041_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2056_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2041_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2050_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2092_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2039_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2075_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2053_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2066_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2062_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2003_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2003_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2042_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2042_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2011_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2063_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2024_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2034_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2081_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2097_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2009_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2099_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2019_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2099_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2098_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2066_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2019_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2030_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2087_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2065_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2046_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2019_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2003_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2057_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2004_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2063_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2075_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2047_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2008_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2002_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2078_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2053_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2039_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2079_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2098_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2094_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2097_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2009_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2017_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2037_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2037_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2051_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2056_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2002_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2025_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2039_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2034_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2028_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2080_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2065_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2094_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2093_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2050_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2032_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2019_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2026_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2008_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2087_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2087_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2081_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2075_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2082_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2011_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2085_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2047_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2092_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2057_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2093_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2056_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2058_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2093_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2046_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2076_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2063_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2009_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2029_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2084_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2079_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2007_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2098_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2041_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2094_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2009_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2029_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2017_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2053_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2012_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2055_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2004_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2026_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2047_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2053_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2048_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2079_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2079_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2056_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2066_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2024_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2055_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2002_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2053_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2098_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2028_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2012_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2095_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2030_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2048_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2048_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2051_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2028_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2092_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2008_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2090_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2064_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2003_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2004_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2021_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2003_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2021_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2002_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2058_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2080_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2066_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2046_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2078_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2024_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2092_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2099_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2095_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2099_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2061_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2091_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2042_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2076_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2076_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2080_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2002_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2094_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2011_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2097_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2097_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2034_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2098_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2057_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2056_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2056_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2032_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2032_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2084_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2080_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2080_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2007_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2093_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2075_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2012_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2025_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2008_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2007_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2051_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2055_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2028_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2002_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2030_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2007_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2059_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2064_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2009_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2084_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2004_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2085_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2028_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2061_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2099_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2090_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2052_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2025_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2059_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2059_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RAL.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2007_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2007_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2090_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2058_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2030_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2078_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2064_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2095_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2092_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2092_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2093_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2093_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2016_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2016_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2061_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2062_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2058_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2058_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2098_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2098_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2002_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2002_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2021_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2091_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2064_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2094_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2046_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2017_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2017_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2019_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2099_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2026_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2062_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2066_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2066_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2085_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2085_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2069_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2021_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2030_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2030_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2041_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2026_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2051_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2003_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2057_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2046_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2046_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2047_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2009_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2091_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2029_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2063_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2051_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2051_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2028_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2028_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2050_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2048_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2090_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2084_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2084_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2043_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2065_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2090_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2090_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2053_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2053_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2063_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2063_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2064_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2064_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2078_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2091_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2091_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2095_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2003_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2047_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2065_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2065_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2086_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2086_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2052_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2052_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2082_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2082_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2069_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2069_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2061_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2019_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2025_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2094_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2003_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2003_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2039_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2061_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2061_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2041_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2047_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2047_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2012_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2012_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2042_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_RAM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_RAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2009_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2009_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2025_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2025_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2095_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2095_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2034_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2034_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2099_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2099_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2019_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2019_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2078_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2078_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2075_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2055_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2055_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2011_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2011_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2068_LAM.png": [
+            "patient_split/rf_data/train/masks/RF_2068_LAM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2081_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2081_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2029_RBL.png": [
+            "patient_split/rf_data/train/masks/RF_2029_RBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2048_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2048_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2075_LMM.png": [
+            "patient_split/rf_data/train/masks/RF_2075_LMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2008_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2039_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2024_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2024_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2057_LA.png": [
+            "patient_split/rf_data/train/masks/RF_2057_LA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2026_RA.png": [
+            "patient_split/rf_data/train/masks/RF_2026_RA_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2042_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2042_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2094_LML.png": [
+            "patient_split/rf_data/train/masks/RF_2094_LML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2050_LBL.png": [
+            "patient_split/rf_data/train/masks/RF_2050_LBL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2008_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2008_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2039_RBM.png": [
+            "patient_split/rf_data/train/masks/RF_2039_RBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2021_RML.png": [
+            "patient_split/rf_data/train/masks/RF_2021_RML_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2041_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2041_LBM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2043_LAL.png": [
+            "patient_split/rf_data/train/masks/RF_2043_LAL_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2004_RMM.png": [
+            "patient_split/rf_data/train/masks/RF_2004_RMM_mask.png"
+        ],
+        "patient_split/rf_data/train/images/RF_2062_LBM.png": [
+            "patient_split/rf_data/train/masks/RF_2062_LBM_mask.png"
+        ]
+}
