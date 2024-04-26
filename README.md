@@ -11,6 +11,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SAM-Med2D.svg?style=social&label=Star&maxAge=60)](https://github.com/OpenGVLab/SAM-Med2D)🔥🔥🔥
 <!-- ## Description -->
 
+## Using SAM-Med2D for Prostate Segmentation 
+
 ## 🌤️ Highlights
 - 🏆 Collected and curated the largest medical image segmentation dataset (4.6M images and 19.7M masks) to date for training models.
 - 🏆 The most comprehensive fine-tuning based on Segment Anything Model (SAM).
