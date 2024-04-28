@@ -29,7 +29,6 @@ for filename in os.listdir(mask_directory):
         mask_path = os.path.join(mask_directory, filename)
         mask = cv2.imread(mask_path, cv2.IMREAD_GRAYSCALE)
 
-        # Your preprocessing logic goes here
         # For example, thresholding to create a binary mask
         _, binary_mask = cv2.threshold(mask, 128, 255, cv2.THRESH_BINARY)
 
@@ -40,5 +39,3 @@ for filename in os.listdir(mask_directory):
         cv2.imwrite(preprocessed_mask_path, binary_mask)
 
         print(f"Preprocessed mask saved to: {preprocessed_mask_path}")
-
-# End of the loop
