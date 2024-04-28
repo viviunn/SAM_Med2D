@@ -12,6 +12,7 @@
 <!-- ## Description -->
 
 ## Using SAM-Med2D for Prostate Segmentation 
+Prepare train and test datasets according to the instructions below. Each training set requires an 'image2label_train.json' file. The test set requires a 'label2image_test.json' file. If using a validation set, prepare a 'label2image_val.json' file. 
 
 ## 🌤️ Highlights
 - 🏆 Collected and curated the largest medical image segmentation dataset (4.6M images and 19.7M masks) to date for training models.
