@@ -20,6 +20,7 @@ Prepare train and test datasets according to the original SAM-Med2D instructions
 - Training Set: Each training set requires an `image2label_train.json` file.
 - Test Set: The test set requires a `label2image_test.json` file.
 - Validation Set: If using a validation set, prepare a `label2image_val.json` file. 
+
 Pre-existing JSON files sorted by ultrasound modalities can be found in `SAM_Med2D/image label mappings`. Use `SAM_Med2D/new scripts/generate_json_files.py` to create the JSON Mappings.
 
 ### Prompt File Details for US Modalities
