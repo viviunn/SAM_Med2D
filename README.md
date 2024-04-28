@@ -16,7 +16,7 @@
 Use `SAM_Med2D/new scripts/preprocess_masks.py` to convert ground truth masks to binary masks. 
 
 ### Dataset Configuration and JSON Mappings
-Prepare train and test datasets according to the instructions below. 
+Prepare train and test datasets according to the original SAM-Med2D instructions below. 
 - Training Set: Each training set requires an `image2label_train.json` file.
 - Test Set: The test set requires a `label2image_test.json` file.
 - Validation Set: If using a validation set, prepare a `label2image_val.json` file. 
