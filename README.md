@@ -11,8 +11,37 @@
 [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SAM-Med2D.svg?style=social&label=Star&maxAge=60)](https://github.com/OpenGVLab/SAM-Med2D)🔥🔥🔥
 <!-- ## Description -->
 
-## Using SAM-Med2D for Prostate Segmentation 
-Prepare train and test datasets according to the instructions below. Each training set requires an 'image2label_train.json' file. The test set requires a 'label2image_test.json' file. If using a validation set, prepare a 'label2image_val.json' file. 
+## Using SAM-Med2D for Prostate Segmentation (Added Section)
+### Preprocessing Ground truth masks
+Use `SAM_Med2D/new scripts/preprocess_masks.py` to convert ground truth masks to binary masks. 
+
+### Dataset Configuration and JSON Mappings
+Prepare train and test datasets according to the instructions below. 
+- Training Set: Each training set requires an `image2label_train.json` file.
+- Test Set: The test set requires a `label2image_test.json` file.
+- Validation Set: If using a validation set, prepare a `label2image_val.json` file. 
+Pre-existing JSON files sorted by ultrasound modalities can be found in `SAM_Med2D/image label mappings`. Use `SAM_Med2D/new scripts/generate_json_files.py` to create the JSON Mappings.
+
+### Prompt File Details for US Modalities
+The `SAM_Med2D/prompt files` directory contains essential prompt files for use with RFB and B-Mode ultrasound (US) modalities for both test and validation datasets. For prostate segmentation, we only used point prompts during testing and validation (not for training). The points were manually selected from the centre of the prostate. 
+- B-mode and RF images require different prompts because of different spatial coordinates. The files corresponding to each modality are named 'bm' and 'rf', respectively.
+- `SAM_Med2D/prompt files/all_pt_rf.json` contains point prompts for all RF images (including the train set). This file can be used for RF, RFv2, and RFv3 datasets. Use this prompt file when working with RF data.
+- If splitting the dataset differently, point prompts must also be selected for the BM train set.
+- If using a different dataset, use `SAM_Med2D/new scripts/create_prompt_path.py` to generate a new prompt file. The box and point coordinates will need to be updated. 
+
+### Modified Train and Test scripts
+The modified train script `SAM_Med2D/new scripts/train_copy.py` adds another parameter:
+- model_save_dir: Specifies the directory where the model will be saved.
+
+The modified test script `SAM_Med2D/new scripts/test_copy.py` prints the individual metrics for each image, calculates the standard deviation, and then writes this to a CSV file. 
+
+### Visualizing predicted masks
+Use `SAM_Med2D/new scripts/overlay_mask.py` to visualize the predicted mask overlaid on the image.
+
+To summarize, we added three new directories: 
+- `SAM_Med2D/new scripts`
+- `SAM_Med2D/prompt files`
+- `SAM_Med2D/image label mappings`
 
 ## 🌤️ Highlights
 - 🏆 Collected and curated the largest medical image segmentation dataset (4.6M images and 19.7M masks) to date for training models.
